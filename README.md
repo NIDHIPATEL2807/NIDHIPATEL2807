@@ -1,7 +1,4 @@
-
-  ## Hi there 👋
-
-   # 💫 About Me:
+ # 💫 About Me:
   **I am currently working on:**  
     Exploring full-stack development and building interactive web applications.
 
@@ -16,7 +13,6 @@
 
    **Ask me about:**  
     HTML, CSS, JavaScript, API integration, and problem-solving in tech.
- 
 
 
 
@@ -36,9 +32,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NIDHIPATEL2807&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+<div style="display: flex; align-items: center;">
+  <div style="width: 150px; overflow: hidden; position: relative; margin-right: 20px;">
+    <img src="https://raw.githubusercontent.com/NIDHIPATEL2807/NIDHIPATEL2807/main/giphy.webp" alt="Dino" style="position: absolute; width: 150px; animation: move 5s linear infinite;" />
+    </div>
+ </div>
 ---
 [![](https://visitcount.itsvg.in/api?id=NIDHIPATEL2807&icon=6&color=1)](https://visitcount.itsvg.in)
 
