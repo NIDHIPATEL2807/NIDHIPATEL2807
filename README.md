@@ -1,29 +1,22 @@
-<div style="display: flex; align-items: center;">
-  <div>
-    <a href="https://tenor.com/view/cute-happy-jump-milk-and-mocha-dinosaur-gif-14018340">
-      <img src="https://media.tenor.com/images/49e490b8c6a9b782a3c2fcb41e3fdb12/tenor.gif" alt="Cute Happy Sticker" style="width: 100px; margin-right: 20px;">
-    </a>
-  </div>
-  <div>
-    ## Hi there 👋
 
-    # 💫 About Me:
-    **I am currently working on:**  
+  ## Hi there 👋
+
+   # 💫 About Me:
+  **I am currently working on:**  
     Exploring full-stack development and building interactive web applications.
 
-    **Looking to collaborate on:**  
+   **Looking to collaborate on:**  
     Innovative web development projects, especially those involving front-end technologies and API integrations.
 
-    **I'm looking for help with:**  
+   **I'm looking for help with:**  
     Enhancing my skills in backend development and exploring new technologies.
 
-    **I am currently learning:**  
+   **I am currently learning:**  
     Full-stack development, including advanced JavaScript, React, and Node.js.
 
-    **Ask me about:**  
+   **Ask me about:**  
     HTML, CSS, JavaScript, API integration, and problem-solving in tech.
-  </div>
-</div>
+ 
 
 
 
