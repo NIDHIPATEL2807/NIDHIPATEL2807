@@ -27,6 +27,9 @@ HTML, CSS, JavaScript, API integration, and problem-solving in tech.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NIDHIPATEL2807&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NIDHIPATEL2807&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+![Nidhi Patel's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NIDHIPATEL2807&custom_title=Nidhi%20Patel's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NIDHIPATEL2807&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
