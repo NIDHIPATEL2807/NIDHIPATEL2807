@@ -11,9 +11,11 @@
    **I am currently learning:**  
     Full-stack development, including advanced JavaScript, React, and Node.js.
 
-   **Ask me about:**  
-    HTML, CSS, JavaScript, API integration, and problem-solving in tech.
-
+   **Fun Fact:**  
+    I also dabble in hardware! From tinkering to designing circuits. Maybe I’ll build a robot that tells jokes next!
+    
+    
+   
 
 
 ## 🌐 Socials:
