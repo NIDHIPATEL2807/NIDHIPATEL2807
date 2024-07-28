@@ -1,7 +1,20 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I am currently working on:<br>Exploring full-stack development and building interactive web applications.<br><br>Looking to collaborate on:<br>Innovative web development projects, especially those involving front-end technologies and API integrations.<br><br>I'm looking for help with:<br>Enhancing my skills in backend development and exploring new technologies.<br><br>I am currently learning:<br>Full-stack development, including advanced JavaScript, React, and Node.js.<br><br>Ask me about:<br>HTML, CSS, JavaScript, API integration, and problem-solving in tech.
+**I am currently working on:**  
+Exploring full-stack development and building interactive web applications.
+
+**Looking to collaborate on:**  
+Innovative web development projects, especially those involving front-end technologies and API integrations.
+
+**I'm looking for help with:**  
+Enhancing my skills in backend development and exploring new technologies.
+
+**I am currently learning:**  
+Full-stack development, including advanced JavaScript, React, and Node.js.
+
+**Ask me about:**  
+HTML, CSS, JavaScript, API integration, and problem-solving in tech.
 
 
 ## 🌐 Socials:
