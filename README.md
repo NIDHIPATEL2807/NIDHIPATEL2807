@@ -39,7 +39,9 @@
     <img src="https://raw.githubusercontent.com/NIDHIPATEL2807/NIDHIPATEL2807/main/giphy.webp" alt="Dino" style="position: absolute; width: 150px; animation: move 5s linear infinite;" />
     </div>
  </div>
----
+
 [![](https://visitcount.itsvg.in/api?id=NIDHIPATEL2807&icon=6&color=1)](https://visitcount.itsvg.in)
+---
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
