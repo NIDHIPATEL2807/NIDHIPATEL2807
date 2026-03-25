@@ -2,62 +2,97 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=3500&pause=1200&color=00F7FF&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&letterSpacing=1px&lines=NIDHI+PATEL;AI+Systems+Engineer+%26+Full-Stack+Developer" 
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=1500&pause=1200&color=FF6B35&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&letterSpacing=1px&lines=NIDHI+PATEL;AI+Systems+Engineer+%26+Full-Stack+Developer" 
       alt="Typing Animation" 
     />
   </a>
 </div>
 
-<!-- ===================== ABOUT SECTION ===================== -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-## 05 — ABOUT
+## 🚀 NIDHI PATEL 
 
-<table>
-<tr>
+<img align="right" alt="Coding" width="400" src="https://github.com/NIDHIPATEL2807/NIDHIPATEL2807/blob/main/giphy.webp">
 
-<td width="60%" valign="top">
+> *"I build intelligent systems that don’t just work — they think."*
 
-I design and build <span style="color:#ff7a33;"><b>intelligent systems</b></span>  
-that operate under <span style="color:#ff7a33;"><b>real-world constraints</b></span> —  
-optimizing for performance, scalability, and usability.  
+**Distributed Systems · Applied ML · Full-Stack · Agentic AI**
 
-My work spans <span style="color:#ff7a33;"><b>GenAI products</b></span>, perception pipelines,  
-and <span style="color:#ff7a33;"><b>full-stack applications</b></span> that actually ship.
+I design and build **intelligent systems that operate under real-world constraints** — optimizing for **performance, scalability, and usability**.  
 
-<br><br>
+My work spans **GenAI products, perception pipelines, and full-stack applications** that actually ship.
 
-<b>🟧 Open For</b>  
-`Internships` &nbsp; `Freelance` &nbsp; `Full-time (Jan 2027)`
+### 🧩 What I Bring:
+- 🚀 Strong problem-solving mindset (DSA + system design)
+- 🛠️ End-to-end project building (AI → Backend → Frontend)
+- 📊 Focus on **performance, scalability, and real-world impact**
 
-</td>
+### Open For
+<p align="center">
+  <img src="https://img.shields.io/badge/Internships-111111?style=for-the-badge&logoColor=FF6B35" />
+  <img src="https://img.shields.io/badge/Freelance-111111?style=for-the-badge&logoColor=FF6B35" />
+  <img src="https://img.shields.io/badge/Full--time_Jan_2027-111111?style=for-the-badge&logoColor=FF6B35" />
+</p>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<!-- ===================== CONTACT ===================== -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ancodernova&label=Profile+Views&color=00d4ff&style=flat-square" />
+  &nbsp;
 
-<td width="40%" valign="top">
+  <a href="https://www.linkedin.com/in/nidhi-patel-424674252/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
 
-<b>🎓 Education</b><br>
-B.Tech EXTC + AI Minor<br>
-SPIT Mumbai · 2027  
+  <a href="mailto:nidhipatelspit@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
 
-<br>
+  <a href="https://github.com/NIDHIPATEL2807">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
 
-<b>💼 Position</b><br>
-Technical Head · IETE<br>
-Built BUGBUSTER 2.0  
+  <!-- ADD THIS -->
+  <a href="https://nidhipatel28.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00d4ff?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;
 
-<br>
+  <img src="https://img.shields.io/badge/Open%20To-Opportunities-00d4ff?style=flat-square&logo=checkmarx&logoColor=white" />
+</div>
 
-<b>⚡ Focus</b><br>
-Distributed Systems · Applied ML · Full-stack · Agentic AI  
 
-<br>
+## 🏆 Achievements
 
-<b>📍 Based In</b><br>
-Mumbai, Maharashtra, India  
+<div align="center">
 
-</td>
+  <!-- Glow-style container -->
+  <div style="border-radius:16px; padding:10px; background: linear-gradient(90deg, #00d4ff, #7C3AED, #FF006E); display:inline-block;">
+    
+  <div style="background:#0d1117; border-radius:12px; padding:10px;">
+      <img src="https://raw.githubusercontent.com/NIDHIPATEL2807/NIDHIPATEL2807/main/Screenshot%202026-03-25%20182749.png" width="900"/>
+    </div>
 
-</tr>
-</table>
+  </div>
 
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆_National_Finalist-TBO_Voyage_3.0-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🏆_Top_24-Barclays_Hack--o--Hire-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🏆_Top_60-Volkswagen_Hackathon-FF0000?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <b>Finalist across national-level hackathons in AI, systems, and full-stack domains</b>
+</p>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 <h2 align="center">🚀 Projects</h2>
 
 <table>
@@ -160,73 +195,64 @@ Mumbai, Maharashtra, India
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=NIDHIPATEL2807&theme=tokyonight&hide_border=true&show_icons=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NIDHIPATEL2807&theme=gruvbox&hide_border=true&show_icons=true&title_color=FF7A00&icon_color=FF7A00&text_color=FFFFFF" height="170"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIDHIPATEL2807&theme=tokyonight&hide_border=true&layout=compact" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIDHIPATEL2807&theme=gruvbox&hide_border=true&layout=compact&title_color=FF7A00&text_color=FFFFFF" height="170"/>
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NIDHIPATEL2807&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NIDHIPATEL2807&theme=dark&hide_border=true&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00&sideLabels=FFFFFF&dates=FFFFFF" />
 
 </div>
-
 
 <!-- ===================== CONTRIBUTION GRAPH ===================== -->
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NIDHIPATEL2807&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NIDHIPATEL2807&bg_color=0d1117&color=FF7A00&line=FF7A00&point=FFFFFF&area=true&hide_border=true" />
 </div>
-
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 
-<!-- ===================== DINO ===================== -->
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/NIDHIPATEL2807/NIDHIPATEL2807/main/giphy.webp" width="150"/>
-</div>
-
----
-
 <!-- ===================== CONTACT ===================== -->
-
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ancodernova&label=Profile+Views&color=00d4ff&style=flat-square" />
+  &nbsp;
 
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=NIDHIPATEL2807&label=Profile+Views&color=00d4ff&style=flat-square" />
-
-  &nbsp;&nbsp;
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/nidhi-patel-424674252">
+  <a href="https://www.linkedin.com/in/nidhi-patel-424674252/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-
   &nbsp;
 
-  <!-- GitHub -->
-  <a href="https://github.com/NIDHIPATEL2807">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-
-  &nbsp;
-
-  <!-- Email -->
   <a href="mailto:nidhipatelspit@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-
   &nbsp;
 
-  <!-- Portfolio -->
-  <a href="https://your-portfolio-link.com">
+  <a href="https://github.com/NIDHIPATEL2807">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+
+  <!-- ADD THIS -->
+  <a href="https://nidhipatel28.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-00d4ff?style=flat-square&logo=vercel&logoColor=white" />
   </a>
+  &nbsp;
 
+  <img src="https://img.shields.io/badge/Open%20To-Opportunities-00d4ff?style=flat-square&logo=checkmarx&logoColor=white" />
 </div>
 
----
 
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/NIDHIPATEL2807/NIDHIPATEL2807/main/Screenshot%202026-03-25%20184004.png" width="1000"/>
+</div>
+
+<br/>
+
+<p align="center">
+  <b>Always exploring. Always shipping. 🚀</b>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
