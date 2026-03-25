@@ -105,20 +105,15 @@ My work spans **GenAI products, perception pipelines, and full-stack application
       </div>
       <br/>
       <p align="center">
-        ML + LLM engine for demand forecasting → campaign automation → conversion bots
+        ML + LLM-powered engine transforming real-time demand signals into optimized acquisition campaigns with automated WhatsApp and call-based conversion systems.
       </p>
-      <ul>
-        <li>Forecasting + campaign optimization</li>
-        <li>LLM-based automation</li>
-        <li>WhatsApp/call conversion bots</li>
-      </ul>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
         <img src="https://img.shields.io/badge/LLMs-000?style=flat-square" />
         <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
       </p>
     </td>
-<!-- PROJECT 2 -->
+ <!-- PROJECT 2 -->
     <td width="50%" valign="top">
       <h3 align="center">🔐 FortiPhrase</h3>
       <div align="center">
@@ -126,13 +121,8 @@ My work spans **GenAI products, perception pipelines, and full-stack application
       </div>
       <br/>
       <p align="center">
-        Offline AI password analyzer with real-time scoring & privacy-first design
+        Privacy-first offline AI password analyzer using Decision Trees and local LLMs for real-time strength scoring, crack-time estimation, secure passphrase generation, and PII detection — all under 200ms with zero cloud dependency.
       </p>
-      <ul>
-        <li>&lt;200ms strength + crack-time</li>
-        <li>PII detection + passphrase generation</li>
-        <li>Fully offline (no cloud)</li>
-      </ul>
       <p align="center">
         <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask" />
         <img src="https://img.shields.io/badge/Ollama-000?style=flat-square" />
@@ -150,13 +140,8 @@ My work spans **GenAI products, perception pipelines, and full-stack application
       </div>
       <br/>
       <p align="center">
-        Real-time ADAS perception system for hazard detection on edge devices
+        Real-time ADAS perception pipeline combining detection, segmentation, depth estimation, and tracking, achieving 20+ FPS with 60% compute optimization and 85%+ hazard detection accuracy on edge devices.
       </p>
-      <ul>
-        <li>20+ FPS edge performance</li>
-        <li>60% compute reduction</li>
-        <li>85%+ accuracy, 30% fewer false positives</li>
-      </ul>
       <p align="center">
         <img src="https://img.shields.io/badge/Computer_Vision-FF4B4B?style=flat-square" />
         <img src="https://img.shields.io/badge/YOLO-000?style=flat-square" />
@@ -171,13 +156,8 @@ My work spans **GenAI products, perception pipelines, and full-stack application
       </div>
       <br/>
       <p align="center">
-        AI platform for resume analysis, personalization & content automation
+        AI-driven platform for resume parsing, skill-gap analysis, and personalized content delivery, processing 100+ resumes while reducing manual effort by 70% through automated intelligence pipelines.
       </p>
-      <ul>
-        <li>100+ resumes processed</li>
-        <li>70% reduction in manual effort</li>
-        <li>Personalized recommendation system</li>
-      </ul>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
         <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask" />
